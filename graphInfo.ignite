@@ -1,0 +1,31 @@
+13 7
+	Lv0 nodeName
+Lv0 0th Node Name: Target uses verbal abuse
+Lv0 1st Node Name: Target uses physical violence
+Lv0 2nd Node Name: Negative intervention a person I hate
+Lv0 3rd node name: Positive intervention by a person I hate
+Lv0 4th Node Name: Negative Intervention by a person I like
+Lv0 5th Node Name: Positive Intervention by a person I like
+Lv0 6th Node Name: Target is physically weaker than me
+Lv0 7th Node Name: Target is physically stronger than me
+Lv0 8th Node Name: Target socially weaker than me
+Lv0 9th Node Name: Target socially stronger than me
+Lv0 10th Node Name: Situation with Multiple *
+Lv0 11th Node Name: Situation by Multiple Targets
+Lv0 12th Node Name: Daily Condition Status *
+	Lv1 nodeName
+Lv1 0th Node Name: Fun *
+Lv1 1st Node Name: Happiness
+Lv1 2nd Node Name: Discomfort
+Lv1 3rd Node Name: Anger *
+Lv1 4th Node Name: Lethargy
+Lv1 5th Node Name: Sadness
+Lv1 6th Node Name: Rationality *
+	Lv2 nodeName
+Lv2 0th Node Name: Electoral College A
+Lv2 1st Node Name: Electoral College B
+Lv2 2nd Node Name: Electoral College C
+Lv2 3rd Node Name: Electoral College D
+Lv2 4th Node Name: Electoral College E
+	Lv3 nodeName
+Lv1 0th Node Name: Violent Behavior
