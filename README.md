@@ -1,4 +1,4 @@
-# Model-of-violent-situatin-encroaching-10yo-boy-s-mind
+# Model-of-violent-situatin-encroaching-10-year-old-boy-s-mind
 
 # 
 # 확장자명 .ignite 는 main.c 실행을 위해 필요한 텍스트형식의 파일들입니다.
