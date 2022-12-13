@@ -1,4 +1,4 @@
-# Model-of-violent-situatin-encroaching-10-year-old-boy-s-mind
+# Model-of-violent-situatin-encroaching-our-mind
 
 ### 2021 컴퓨터공학부 전과를 위한 프로젝트
 #### 확장자명 .ignite 는 main.c 실행을 위해 필요한 텍스트형식의 파일들입니다.
